@@ -1,0 +1,9 @@
+matplotlib
+numpy
+torch
+pandas 
+torch
+tabulate
+torchsummary
+opencv-python
+scikit-learn
